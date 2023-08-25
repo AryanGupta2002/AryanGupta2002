@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB DELVELOPMENT
 - 🌱 I’m currently learning REACTJS
 - 💞️ I’m looking to collaborate on COMPLEX PROJECTS ON REACTJS
-- 📫 How to reach me guptaayan2580@gmail.com
+- 📫 How to reach me guptaaryan2580@gmail.com
 
 <!---
 AryanGupta2002/AryanGupta2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
